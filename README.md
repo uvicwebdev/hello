@@ -1,6 +1,6 @@
 ![Header Image](images/Header.png)
 
-# hello
+# Hello
 
 We are a community of students who collaborate and educate each other about all aspects of web development and design.
 
@@ -13,7 +13,5 @@ We are also referred to as UVic WebDev Club.
 * [Facebook Messenger](m.me/uvicwebdev)
 * [Slack Channel](https://webdevclub.slack.com/)
 * [Twitter](https://twitter.com/UVicWebDev)
-* [Events Calendar](https://goo.gl/3vsv1I)
 
 To join our Slack Channel, please send your email address to an admin on our facebook group or message our facebook page.
-
